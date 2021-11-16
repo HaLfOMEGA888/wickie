@@ -1,4 +1,4 @@
-so this is my discord bot made out of javascript you cant use it it needs alot of pakages if you want to use here you go 
+so this is my discord bot made out of javascript you can use then you need alot of pakages these are the ones
 npm i discord.js@dev
 npm i canvas
 npm i moment
